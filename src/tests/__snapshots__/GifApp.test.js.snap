@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GifApp /> | Main aplication Render 1`] = `
+<Fragment>
+  <h2>
+    Gif Expert App
+  </h2>
+  <AddCategory
+    setCategoria={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      categoria="One Punch"
+      key="One Punch"
+    />
+  </ol>
+</Fragment>
+`;
